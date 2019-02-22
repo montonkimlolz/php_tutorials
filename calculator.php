@@ -14,6 +14,9 @@ else if($operator == "*") {
 } 
 else if($operator == "/") {
  echo $num1 / $num2;
+} 
+else if($operator == "/") {
+ echo $num2 / $num2;
 }
 
 ?>
